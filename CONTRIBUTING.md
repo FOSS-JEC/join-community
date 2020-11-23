@@ -24,4 +24,4 @@
 
     Full Name - emailaddress@domaim.com - \[@username](https://github.com/username) - Department
 
-4. Accept the invitation from FOSS-JEC GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [FOSS-JEC GitHub Organization page](https://github.com/FOSS-JEC) and check if you have a notification over there.
+3. Accept the invitation from FOSS-JEC GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [FOSS-JEC GitHub Organization page](https://github.com/FOSS-JEC) and check if you have a notification over there.
